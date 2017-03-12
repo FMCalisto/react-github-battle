@@ -8,6 +8,14 @@ This is the repository for the project we'll build together for React.js Program
 
 [Tyler McGinnis](https://twitter.com/tylermcginnis33)
 
+## Dependencies
+
+For your convenience:
+
+```
+npm install --save-dev html-webpack-plugin webpack webpack-dev-server babel-core babel-loader babel-preset-react
+```
+
 ## Installation & Run
 
 ```
@@ -16,6 +24,8 @@ npm run start
 ```
 
 ## Information
+
+The video for this code can be found [HERE](https://online.reacttraining.com/courses/50507/lectures/760301). If you're getting errors, check that your code matches.
 
 ### Author
 
